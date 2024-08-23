@@ -69,3 +69,81 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# Survey-Form" 
+
+SURVEY FORM 
+
+ 
+
+Wireframe: 
+
+ 
+
+ 
+
+Functional documentation: 
+
+The survey form is a one-page website that has questions and multiple propositions of answer.  It has  
+
+A title 
+
+A paragraph introducing the survey topic 
+
+A survey form aligns vertically 
+
+A Submit button 
+
+When the user submits the form, 
+
+Another frame is render with a form with user’s answers and responses. 
+
+Footer, a 10vh rectangular frame with the left-top-align short sentence. 
+
+Technical documentation 
+
+ 
+
+Libraries 
+
+The following libraries had been used in other to create the says webpage; 
+
+- React Dom/client: It enables react to interact with browser DOM. 
+
+- React: Handle the rendering of react components. 
+
+- React icons: This library allows the insertion of icons on the webpage. 
+
+ 
+
+ 
+
+Code color 
+
+  	Footer: #3a3e3d; 
+
+Webpage background color: ##c4c2c6; 
+
+ 
+
+ 
+
+Dimensions  
+
+Align Items Centered Header max width 1200px, height:100px; 
+
+Footer: max width 1200px, height:50vh; 
+
+Body: max width 1200px, height:90vh; 
+
+Components 
+
+All components are simple functions returning JSX elements. 
+
+Header 
+
+SurveyInput 
+
+Footer 
+
+Features 
+
+On the Dream vacation webpage, reading and learning are the main tasks the user can do. 
